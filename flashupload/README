@@ -1,0 +1,56 @@
+FlashUpload extension 1.0 README
+
+What is the FlashUpload extension?
+==================================
+
+A toolbar extension that provides an interface to upload multiple files with Flash,
+Javascript & HTML
+
+
+FlashUpload version
+===================
+
+The current version of FlashUpload is 1.0.
+You can find details about changes for this version in doc/changelogs/CHANGELOG-1.0
+
+
+License
+=======
+
+This software is licensed under the GPL2. The complete
+license agreement is included in the LICENSE file. For more information
+or questions please contact stevoland@gmail.com
+
+
+Requirements
+============
+
+The following requirements exists for using FlashUpload extension:
+
+o  eZ publish version:
+
+   Make sure you use eZ publish version 3.9 or higher.
+
+o  PHP version:
+
+   Make sure you have PHP 4.4 or higher.
+
+
+Installation
+============
+Please read the INSTALL file for installation instructions.
+
+
+Troubleshooting
+===============
+
+1. Read the FAQ
+   ------------
+
+   Some problems are more common than others. The most common ones are listed
+   in the the FAQ.
+
+2. Support
+   -------
+
+   
